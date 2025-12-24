@@ -1,0 +1,20 @@
+Epoch,Train_Loss,Val_Loss,Train_Accuracy,Val_Accuracy
+1,0.2458,0.1986,0.9012,0.8854
+2,0.1724,0.1549,0.9287,0.9078
+3,0.1316,0.1283,0.9445,0.9216
+4,0.1048,0.1095,0.9563,0.9312
+5,0.0896,0.0987,0.9649,0.9368
+6,0.0783,0.0954,0.9708,0.9395
+7,0.0719,0.0948,0.9742,0.9412
+8,0.0665,0.0959,0.9768,0.9426
+
+
+=== Final Test Results ===
+Test Accuracy: 0.9468
+
+gametocyte: Precision=0.9482, Recall=0.9574, F1=0.9528
+leukocyte: Precision=0.9613, Recall=0.9689, F1=0.9651
+red blood cell: Precision=0.9447, Recall=0.9325, F1=0.9386
+ring: Precision=0.9369, Recall=0.9482, F1=0.9425
+schizont: Precision=0.9528, Recall=0.9586, F1=0.9557
+trophozoite: Precision=0.9394, Recall=0.9268, F1=0.9331
